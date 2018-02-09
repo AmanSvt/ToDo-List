@@ -1,1 +1,1 @@
-# ToDo-List using JQuery
+# ToDo-List using Javascript
